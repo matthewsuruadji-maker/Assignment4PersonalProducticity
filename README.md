@@ -78,7 +78,7 @@ Example:
 ```env
 GMAIL_EMAIL=[your_email@gmail.com]
 GMAIL_APP_PASSWORD=[your_app_password]
-#the bracket [] is the one that you need to replace with your email and app password (not gmail password)git init
+#the bracket [] is the one that you need to replace with your email and app password (not gmail password)
 
 The `.env` file is excluded from GitHub through `.gitignore`.
 
