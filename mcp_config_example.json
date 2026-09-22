@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "personal-productivity-email": {
+      "command": "C:\\PATH\\TO\\PROJECT\\.venv\\Scripts\\python.exe",
+      "args": [
+        "C:\\PATH\\TO\\PROJECT\\server.py"
+      ]
+    }
+  }
+}
